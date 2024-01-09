@@ -1,0 +1,6 @@
+default_location             = "uksouth"
+root_id                      = "tfgh"
+root_name                    = "ALZ-TFGH-Hub"
+subscription_id_connectivity = "6e8f4ab8-cba8-411f-b72a-f6f15694690a"
+subscription_id_identity     = "cdb5ef31-6bac-49f9-a0b2-e772fa8d6703"
+subscription_id_management   = "332e6102-89d7-4628-a367-52e48fa4611c"
